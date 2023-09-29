@@ -1,0 +1,41 @@
+leftnav:
+- identifier: 5368ca5e-a6f0-c27b-020c-324eefae6081
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: a4215a5f-1723-eca5-60cf-afdf688c01e5
+  name: Evaluation and Grades
+  pageRef: /pages/syllabus/evaluation
+  parent: 5368ca5e-a6f0-c27b-020c-324eefae6081
+  weight: 20
+- identifier: eb70a762-13e4-6267-b4a6-a3c4aeb73bba
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: 9e6aa09a-1f73-c0f7-ddae-d6bc95106881
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 475970bf-7a88-f2fe-4f05-686c40d72782
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 425e0b00-b152-445c-9953-dd51200a70c5
+  name: Exercise 1
+  pageRef: /pages/assignments/exercise-1
+  parent: 475970bf-7a88-f2fe-4f05-686c40d72782
+  weight: 60
+- identifier: b12efa7f-5548-e849-cc95-cb9455342fb4
+  name: Exercise 2
+  pageRef: /pages/assignments/exercise-2
+  parent: 475970bf-7a88-f2fe-4f05-686c40d72782
+  weight: 70
+- identifier: 43f85d39-01d5-cfb0-f74b-f655f66461fc
+  name: Exercise 3
+  pageRef: /pages/assignments/exercise-3
+  parent: 475970bf-7a88-f2fe-4f05-686c40d72782
+  weight: 80
+- identifier: 4e0a6348-1151-28f9-5705-68996569de0f
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
